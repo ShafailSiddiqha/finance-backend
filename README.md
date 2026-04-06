@@ -109,10 +109,10 @@ Authorization: Bearer <JWT_TOKEN>
 ![Users](./screenshots/Users.png)
 
 ### Add Income
-![Income](./screenshots/Finace Income.png)
+![Income](./screenshots/Income.png)
 
 ### Add Expense
-![Expense](./screenshots/Finance Expenss.png)
+![Expense](./screenshots/Expense.png)
 
 ### Dashboard
 ![Dashboard](./screenshots/Dashboard.png)

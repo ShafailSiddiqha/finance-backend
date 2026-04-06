@@ -100,29 +100,22 @@ Authorization: Bearer <JWT_TOKEN>
 ## 📸 Screenshots
 
 ### Register
-
-![Register](./screenshots/register.png)
+![Register](./screenshots/Register.png)
 
 ### Login
-
-![Login](./screenshots/login.png)
+![Login](./screenshots/Login.png)
 
 ### Users
-
-![Users](./screenshots/users.png)
+![Users](./screenshots/Users.png)
 
 ### Add Income
-
-![Income](./screenshots/income.png)
+![Income](./screenshots/Finace Income.png)
 
 ### Add Expense
-
-![Expense](./screenshots/expense.png)
+![Expense](./screenshots/Finance Expenss.png)
 
 ### Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
-
+![Dashboard](./screenshots/Dashboard.png)
 ---
 
 ## ⚙️ Setup Instructions
